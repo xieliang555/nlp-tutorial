@@ -1,7 +1,5 @@
 # nlp-tutorial
 
-## RNN
-
 
 1. Attention Mechanism
     - Paper - [Neural Machine Translation by Jointly
