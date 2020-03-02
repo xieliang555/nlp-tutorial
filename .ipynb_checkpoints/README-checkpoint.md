@@ -7,7 +7,7 @@
     - Paper - [Neural Machine Translation by Jointly
 Learning to Align and Translate](https://arxiv.org/abs/1409.0473v2)
     - Code -
-[Bahdanau Attention.ipynb](./Attention Mechanism/Bahdanau Attention.ipynb)
+[Bahdanau-Attention.ipynb](./Attention-Mechanism/Bahdanau-Attention.ipynb)
 2. Transformer
     - Paper - [Attention Is All You
 Need](https://arxiv.org/abs/1706.03762)
